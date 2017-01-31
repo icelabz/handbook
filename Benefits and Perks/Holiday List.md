@@ -2,15 +2,15 @@
 The list below has been extracted from [https://www.gov.uk/bank-holidays](https://www.gov.uk/bank-holidays)
 <table>
     <tr>
-        <th>
+        <td>
             14 April
-        </th>
-        <th>
+        </td>
+        <td>
             Friday
-        </th>
-        <th>
+        </td>
+        <td>
             Good Friday
-        </th>
+        </td>
     </tr>
     <tr>
         <td>
