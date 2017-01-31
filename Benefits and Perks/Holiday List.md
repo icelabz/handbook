@@ -1,55 +1,86 @@
-# Clef Observed Holiday List
-
+# Icelabz Holiday List
+The list below has been extracted from [https://www.gov.uk/bank-holidays](https://www.gov.uk/bank-holidays)
 <table>
-  <tr>
-    <td>New Year’s Day</td>
-    <td>January 1</td>
-  </tr>
-  <tr>
-    <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 19</td>
-  </tr>
-  <tr>
-    <td>President’s Day</td>
-    <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
-  </tr>
-  <tr>
-    <td>Memorial Day</td>
-    <td>Last Monday in May</td>
-  </tr>
-  <tr>
-    <td>Independence Day</td>
-    <td>July 4</td>
-  </tr>
-  <tr>
-    <td>Labor Day</td>
-    <td>First Monday in September</td>
-  </tr>
-  <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
-  </tr>
-  <tr>
-    <td>Veterans Day</td>
-    <td>November 11</td>
-  </tr>
-  <tr>
-    <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and following Friday</td>
-  </tr>
-  <tr>
-    <td>Christmas Eve</td>
-    <td>December 24</td>
-  </tr>
-  <tr>
-    <td>Christmas Day</td>
-    <td>December 25</td>
-  </tr>
+    <tr>
+        <th>
+            14 April
+        </th>
+        <th>
+            Friday
+        </th>
+        <th>
+            Good Friday
+        </th>
+    </tr>
+    <tr>
+        <td>
+            17 April
+        </td>
+        <td>
+            Monday
+        </td>
+        <td>
+            Easter Monday
+        </td>
+    </tr>
+    <tr>
+        <td>
+            1 May
+        </td>
+        <td>
+            Monday
+        </td>
+        <td>
+            Early May bank holiday
+        </td>
+    </tr>
+    <tr>
+        <td>
+            29 May
+        </td>
+        <td>
+            Monday
+        </td>
+        <td>
+            Spring bank holiday
+        </td>
+    </tr>
+    <tr>
+        <td>
+            28 August
+        </td>
+        <td>
+            Monday
+        </td>
+        <td>
+            Summer bank holiday
+        </td>
+    </tr>
+    <tr>
+        <td>
+            25 December
+        </td>
+        <td>
+            Monday
+        </td>
+        <td>
+            Christmas Day
+        </td>
+    </tr>
+    <tr>
+        <td>
+            26 December
+        </td>
+        <td>
+            Tuesday
+        </td>
+        <td>
+            Boxing Day
+        </td>
+    </tr>
 </table>
 
+Holiday's falling on weekends will be observed on a working weekday and will be highlighted on the gov.uk website.
 
-If a holiday falls on a weekend, we’ll let you know when the holiday will be observed. Usually, if a holiday falls on a Saturday, we will observe it on the Friday before. If it falls on a Sunday, it will be observed on the following Monday.
+We also have a mandatory 4 days of Xmas/New year shut down period in December. If there is work to be done and it has been agreed with upper management, the 4 days of mandatory holiday will be voided.
+

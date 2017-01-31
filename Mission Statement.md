@@ -1,5 +1,5 @@
 # Mission Statement
 
-## Our mission is to empower everyone to own their identity online.
+## Our mission is to provide innovative and cost-effective solutions.
 
-We build a secure standard of identity for businesses to replace passwords, allowing users to have an authentic and personal relationship with the technology they use. Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our product.
+We provide an innovative surveying solution to domestic, private and public clients, allowing them to get the right information, on time, with the highest accuracy. Our business is foremost a technology driven business, we try, test, train, and implement the latest technology to provide the best service possible to bridge the demand of today's market with the latent construction service business.
